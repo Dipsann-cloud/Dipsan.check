@@ -1,2 +1,3 @@
 # Dipsan.check
-First time trying git repository
+First time trying git repository.
+Author: Dipsan
